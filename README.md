@@ -64,3 +64,6 @@ This package contains a high-fidelity, synthetic 50,000-record clinical dataset 
 - **Zero Data Leakage:** Stratified partition isolation guarantees zero patient overlap across training, validation, and testing sets.
 - **100% Validation Verification:** Validated for zero missing values, zero duplicate keys, and realistic physiological correlations.
 - **Ethical Compliance:** Synthetic dataset generated using Bayesian causal modeling; contains zero real-world Protected Health Information (PHI).
+
+
+## First I caluclate blood gluclose to known that is it effect to Melioidosis
