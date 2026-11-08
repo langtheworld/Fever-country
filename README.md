@@ -67,3 +67,6 @@ This package contains a high-fidelity, synthetic 50,000-record clinical dataset 
 
 
 ## First I caluclate blood gluclose to known that is it effect to Melioidosis
+
+# by each country
+
